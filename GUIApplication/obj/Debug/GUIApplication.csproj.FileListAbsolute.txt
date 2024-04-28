@@ -1,0 +1,13 @@
+C:\Users\Aliso\source\repos\GUIApplication\GUIApplication\bin\Debug\GUIApplication.exe.config
+C:\Users\Aliso\source\repos\GUIApplication\GUIApplication\bin\Debug\GUIApplication.exe
+C:\Users\Aliso\source\repos\GUIApplication\GUIApplication\bin\Debug\GUIApplication.pdb
+C:\Users\Aliso\source\repos\GUIApplication\GUIApplication\obj\Debug\GUIApplication.csproj.AssemblyReference.cache
+C:\Users\Aliso\source\repos\GUIApplication\GUIApplication\obj\Debug\GUIApplication.LoginForm.resources
+C:\Users\Aliso\source\repos\GUIApplication\GUIApplication\obj\Debug\GUIApplication.Properties.Resources.resources
+C:\Users\Aliso\source\repos\GUIApplication\GUIApplication\obj\Debug\GUIApplication.csproj.GenerateResource.cache
+C:\Users\Aliso\source\repos\GUIApplication\GUIApplication\obj\Debug\GUIApplication.csproj.CoreCompileInputs.cache
+C:\Users\Aliso\source\repos\GUIApplication\GUIApplication\obj\Debug\GUIApplication.exe
+C:\Users\Aliso\source\repos\GUIApplication\GUIApplication\obj\Debug\GUIApplication.pdb
+C:\Users\Aliso\source\repos\GUIApplication\GUIApplication\obj\Debug\GUIApplication.FileManager.resources
+C:\Users\Aliso\source\repos\GUIApplication\GUIApplication\obj\Debug\GUIApplication.CreateItemForm.resources
+C:\Users\Aliso\source\repos\GUIApplication\GUIApplication\obj\Debug\GUIApplication.FileContentForm.resources
